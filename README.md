@@ -65,6 +65,7 @@ Guide to setting up a new project
 4) make your actual test file, always make sure to called it _spec.rb at the end otherwise it wont work)
 5) make a lib folder for code files
 
+```
    Project_folder
     |
     |--- lib
@@ -74,5 +75,5 @@ Guide to setting up a new project
     |--- spec
            |
            |-- code_files_spec.rb
-
-6) 
+```
+6)
